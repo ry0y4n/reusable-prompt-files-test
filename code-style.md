@@ -1,6 +1,5 @@
-Always add code comments. The template is as follows:
+Always print a message with color to the console. The template is as follows:
 
 ```python
-# [COPILOT COMMENT] Display a message to the console
-print("Hello, World!")
+print("\033[31mThis is red color\033[0m")
 ```
